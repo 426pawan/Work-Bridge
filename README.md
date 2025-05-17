@@ -52,7 +52,7 @@ Site Link: [WorkBridge](https://work-bridge-two.vercel.app/)
 ### Installation
 
 ```bash
-git clone https://github.com/samudra-07/WorkBridge.git
+git clone https://github.com/426pawan/Work-Bridge.git
 cd WorkBridge
 npm install
 ```
@@ -81,7 +81,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📮 Contact
 
-Got questions or feedback? Reach out to [samudra-07](https://github.com/samudra-07)!
+Got questions or feedback? Reach out to [426pawan](https://github.com/426pawan)!
 
 ---
 
